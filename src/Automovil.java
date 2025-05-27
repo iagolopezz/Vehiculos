@@ -1,4 +1,4 @@
-abstract class Automovil extends Vehiculo {
+class Automovil extends Vehiculo {
     private int numPuertas;
     private String tipoTransmision;
     private boolean tieneAireAcondicionado;
